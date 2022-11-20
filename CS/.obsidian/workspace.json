@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "8c8d8a5a6bae12fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d9b67bd2d77a374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152478756307f791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/sql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaef4dd2aced6377",
+    "type": "split",
+    "children": [
+      {
+        "id": "a850d217235745f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b22ceefbd510a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84092c3f17a924cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a57095704c2d327",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cc312b0e5a25c08",
+    "type": "split",
+    "children": [
+      {
+        "id": "e807b0c2d9a181cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f302493bcab208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leetcode/sql.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1a0d90b74406ae6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leetcode/sql.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca900bff4e806042",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "540ab388ac8909c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode/sql.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2b22ceefbd510a17",
+  "lastOpenFiles": [
+    "leetcode/递归.md",
+    "leetcode/dp.md",
+    "leetcode/ListNode.md",
+    "leetcode/sql.md",
+    "mysql.md",
+    "mybatis.md",
+    "未命名.md",
+    "2022-11-15.md",
+    "springboot.md",
+    "spring.md"
+  ]
+}

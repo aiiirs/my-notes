@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "e930fbadcbd8624a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f587ac76b50574d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d935ee908e7329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单词.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35177ae7a9c0babc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单词.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d327c5d8bfcdafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "14c5756c0c7af694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c4caf5595ea1ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8014de9cf003bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8706e39b33fcd0c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71892ce430d0d0bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "200b0bff2d26dd13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899248e3067a2055",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "单词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3941e195d2f2d314",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "单词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f1432a3c069bfd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4bde0cf5ddcbe7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "单词.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35177ae7a9c0babc",
+  "lastOpenFiles": [
+    "句子.md",
+    "单词.md"
+  ]
+}
